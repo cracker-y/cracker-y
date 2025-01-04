@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 
 ---
+<div align= "center">
 
 ## Hi there 👋
-<div align= "center">
+
    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=cracker-y%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
-</div>
+
 
 ---
 
@@ -54,6 +55,8 @@ Here are some ideas to get you started:
 ## 📫 How to reach me
 - [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cracker0dl@gmail.com)
 - [![Portfolio](https://img.shields.io/badge/portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cracker-y)
+
+</div>
 
 ---
 
