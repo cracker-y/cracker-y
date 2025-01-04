@@ -1,3 +1,4 @@
+
 <!--
 **cracker-y/cracker-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 # Hi there 👋
+
 
 <div align= "center">
    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=cracker-y%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
+
 
 ---
 
