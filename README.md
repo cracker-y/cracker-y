@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
----
 <div align= "center">
+---
 
 ## Hi there 👋
 
@@ -44,17 +43,19 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cracker-y&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cracker-y&layout=compact&theme=radical)
 
+<!--
 ---
 
 ## 🌟 Featured Projects
 - **[Project Name](#)**: Short description about the project.  
 - **[Another Project](#)**: Brief description and a link.
+-->
 
 ---
 
 ## 📫 How to reach me
-- [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cracker0dl@gmail.com)
-- [![Portfolio](https://img.shields.io/badge/portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cracker-y)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cracker0dl@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cracker-y)
 
 </div>
 
