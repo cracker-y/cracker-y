@@ -14,6 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 id="countdown"></h1>
+
+<script>
+  function updateCountdown() {
+    const endDate = new Date("2025-06-27");
+    const now = new Date();
+    const diff = Math.ceil((endDate - now) / (1000 * 60 * 60 * 24));
+    document.getElementById("countdown").innerText = `D-${diff}`;
+  }
+  updateCountdown();
+  setInterval(updateCountdown, 1000 * 60 * 60 * 24); // 매일 업데이트
+</script>
+
 
 <div align= "center">
    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=cracker-y%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
