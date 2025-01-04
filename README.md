@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me
 - [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cracker0dl@gmail.com)
-- [![Portfolio](https://img.shields.io/badge/portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+- [![Portfolio](https://img.shields.io/badge/portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cracker-y)
 
 ---
 
