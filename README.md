@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Your Name](https://img.shields.io/badge/-YourName-blue?style=for-the-badge&logo=github&logoColor=white)
+
+
+
 <div align= "center">
    
 ---
