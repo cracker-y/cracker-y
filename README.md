@@ -14,6 +14,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+    @keyframes rainbow {
+      0% { color: red; }
+      16% { color: orange; }
+      33% { color: yellow; }
+      50% { color: green; }
+      66% { color: blue; }
+      83% { color: indigo; }
+      100% { color: violet; }
+    }
+
+    .rainbow-text {
+      font-size: 1rem;
+      animation: rainbow 2s linear infinite;
+    }
+
+<p>
+    This is a <span id="rainbow" class="rainbow-text">[이름]</span> with rainbow text effect.
+  </p>
+
+
 ---
 
 ## Hi there 👋
