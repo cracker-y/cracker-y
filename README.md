@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rainbow Text](https://your-image-link.gif)
-
-
 
 ---
 
