@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi there 👋
+
+I'm **[Your Name]**, a passionate **[Your Role]** from **[Location]**.  
+I love building **creative solutions** and **exploring new technologies**!
+
+
+
+
 ---
 
 ## Hi there 👋
