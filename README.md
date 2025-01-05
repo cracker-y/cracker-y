@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+    color: tomato;
+
 -->
 
 
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=cracker-y%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&color=tomato&height=120&text=cracker-y%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
 
 
 ---
