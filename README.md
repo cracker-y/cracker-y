@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=tomato&height=120&text=cracker-y%20Code%20Farm&animation=fadeIn&fontColor=tomato&fontSize=60" />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gray&height=120&text=cracker-y%20Code%20Farm&animation=fadeIn&fontColor=tomato&fontSize=60" />
 
 
 ---
